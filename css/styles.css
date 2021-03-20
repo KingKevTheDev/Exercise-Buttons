@@ -7,7 +7,7 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #3046C5;
+    color: #c53030;
 }
 
 header h2 {
@@ -22,7 +22,7 @@ header h2 {
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #f50808, #3046C5, #383738);
     color: white;
 }
 
@@ -33,7 +33,7 @@ header h2 {
 }
 
 .navbar-dark {
-    background-color: #901cad
+    background-color: #000000
 }
 
 .tab-content {
